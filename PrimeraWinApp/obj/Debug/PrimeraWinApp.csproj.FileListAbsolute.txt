@@ -1,0 +1,9 @@
+C:\Users\kevin\Desktop\PrimeraAppNet2020\PrimeraWinApp\bin\Debug\PrimeraWinApp.exe.config
+C:\Users\kevin\Desktop\PrimeraAppNet2020\PrimeraWinApp\bin\Debug\PrimeraWinApp.exe
+C:\Users\kevin\Desktop\PrimeraAppNet2020\PrimeraWinApp\bin\Debug\PrimeraWinApp.pdb
+C:\Users\kevin\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.Properties.Resources.resources
+C:\Users\kevin\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.exe
+C:\Users\kevin\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.pdb
